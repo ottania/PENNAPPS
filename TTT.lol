@@ -94,7 +94,95 @@ IM IN YR GAEM UPPIN YR TURN WILE DIFFRINT TURN AN 9
     VISIBLE "CHOOZ NUMBAR WHER U WANT GO!LOL"
     I HAS A NUMBA
     GIMMEH NUMBA
-    FOUND YR NUMBA
+    NUMBA, WTF?
+        OMG "0"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    ZERO R "O"
+                NO WAI
+                    ZERO R "X"
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTF0
+        OMG "1"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    ONE R "O"
+                NO WAI
+                    ONE R "X"
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMG "2"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    TWI R "O"
+                NO WAI
+                    TWO R "X"
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMG "3"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    THREE R "O"
+                NO WAI
+                    THREE R "X"
+           OIC
+           PLAYRBULYAN R NOT PLAYRBULYAN
+           GTFO
+        OMG "4"
+           PLAYRBULYAN, O RLY?
+                YA RLY
+                    FOUR R "O"
+                NO WAI
+                    FOUR R "X"
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMG "5"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    FIVE R "O"
+                    GTFO
+                NO WAI
+                    FIVE R "X"
+                    GTFO
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMG "6"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    SIX R "O"
+                NO WAI
+                    SIX R "X"
+           OIC
+           PLAYRBULYAN R NOT PLAYRBULYAN
+           GTFO
+        OMG "7"
+           PLAYRBULYAN, O RLY?
+                YA RLY
+                    SEVEN R "O"
+                    GTFO
+                NO WAI
+                    SEVEN R "X"
+                    GTFO
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMG "8"
+            PLAYRBULYAN, O RLY?
+                YA RLY
+                    EIGHT R "O"
+                NO WAI
+                    EIGHT R "X"
+            OIC
+            PLAYRBULYAN R NOT PLAYRBULYAN
+            GTFO
+        OMGWTF
+            VISIBLE "WRONG NUMBAR WTF!??@!"
+    OIC
 IM OUTTA YR GAEM
 
 
